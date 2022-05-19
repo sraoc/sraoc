@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji -->
 
-<!-- ------- -->
+<!-- ------- 
 
 <!-- **📝 Latest Blog Posts**
 
@@ -39,20 +39,6 @@ Here are some ideas to get you started:
 - [The Sunset Revelation](https://blog.athulcyriac.in/blog/philosphy-2/)
 - [Philosophy Athre Philosophy](https://blog.athulcyriac.in/blog/philosophies/)
 - [The Athul of 2021](https://blog.athulcyriac.in/blog/2021-me/) -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END --> 
 
-<!-- ------- -->
-
-<!-- 📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```text
-Bash       46 mins         █████████▒░░░░░░░░░░░░░░░   37.50 %
-YAML       23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Python     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Other      14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-```
-
-<!--END_SECTION:waka--> -->
-
-<!-- ------- -->
+<!-- ------- 
